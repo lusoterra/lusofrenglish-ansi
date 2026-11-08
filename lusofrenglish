@@ -40,8 +40,8 @@ xkb_symbols "basic" {
 
     // Home row
     key <AC01> { [         a,          A,          aacute,            Aacute ] };
-    key <AC02> { [         s,          S,          agrave,            Agrave ] };
-    key <AC03> { [         d,          D,          eacute,            Eacute ] };
+    key <AC02> { [         s,          S,        NoSymbol,         NoSymbol ] };
+    key <AC03> { [         d,          D,        NoSymbol,         NoSymbol ] };
     key <AC04> { [         f,          F,        NoSymbol,         NoSymbol ] };
     key <AC05> { [         g,          G,     icircumflex,       Icircumflex ] };
     key <AC06> { [         h,          H,     ucircumflex,       Ucircumflex ] };

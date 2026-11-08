@@ -27,55 +27,47 @@ US ANSI keyboard layout with AltGr dead keys, tuned for Portuguese, French and E
 | ' (AC11) | dead_acute | á, é, í, ó, ú |
 | ' (AC11) + Shift | dead_diaeresis | ä, ë, ï, ö, ü, ÿ |
 | , (AB08) | dead_cedilla | ç |
-| . (AB09) has oe direct; use dead_caron on 6+Shift? | dead_caron | č, š, ž (Shift+AltGr+6) |
+| . (AB09) | (none) | (none) |
 | Other dead keys | dead_macron, dead_breve, dead_abovering, dead_ogonek, dead_stroke, dead_horn, dead_belowdot, dead_doubleacute, dead_abovedot, dead_greek | Less common accents |
 
 ## Direct AltGr characters
 
 | Key | AltGr (level 3) | Shift+AltGr (level 4) |
 |---|---|---|
-| Q | º (masculine) | ª (feminine) |
-| W | æ | Æ |
-| E | é | É |
-| R | è | È |
-| T | ù | Ù |
-| Y | ù | Ù |
-| U | ú | Ú |
-| I | ï | Ï |
-| O | ó | Ó |
-| P | ò | Ò |
-| A | á | Á |
-| S | à | À |
-| D | é | É |
-| F | ê | Ê |
-| G | î | Î |
-| H | û | Û |
-| J | ù | Ù |
-| K | í | Í |
-| L | ó | Ó |
-| ; | ô | Ô |
-| Z | á | Á |
-| X | â | Â |
-| C | ç | Ç |
-| V | ã | Ã |
-| B | õ | Õ |
-| N | ñ | Ñ |
-| M | ì | Ì |
-| . | œ | Œ |
-| 1 | ¡ (exclamdown) | dead_abovedot |
+| ` (TLDE) | dead_grave | dead_tilde |
 | 2 | ² | dead_doubleacute |
 | 3 | ³ | dead_macron |
 | 4 | ¢ | ¥ |
 | 5 | € | £ |
+| 6 | dead_circumflex | dead_caron |
 | 7 | ™ | ® |
 | 8 | dead_abovedot | dead_greek |
-| 9 | “ | ‘ |
-| 0 | ” | ’ |
-| - | – | — |
 | = | ° | dead_abovering |
+| Q | à | À |
+| W | è | È |
+| E | é | É |
+| R | ê | Ê |
+| Y | ù | Ù |
+| U | ú | Ú |
+| I | í | Í |
+| O | ó | Ó |
+| P | ò | Ò |
 | [ | « | ‹ |
 | ] | » | › |
-| \ | ¬ | ¦ |
+| A | á | Á |
+| G | î | Î |
+| H | û | Û |
+| J | ù | Ù |
+| K | ï | Ï |
+| L | õ | Õ |
+| ; | ô | Ô |
+| ' | dead_acute | dead_diaeresis |
+| Z | ã | Ã |
+| X | â | Â |
+| C | ç | Ç |
+| M | ì | Ì |
+| , | ç | dead_cedilla |
+| / | questiondown | dead_stroke |
 
 ## Install
 

@@ -20,7 +20,7 @@ EVDEV_XML_BLOCK = """  <layout>
       <name>lusofrenglish</name>
       <shortDescription>PT-FR-EN</shortDescription>
       <description>English (Luso-FrEnglish, AltGr dead keys)</description>
-      <countryList><country>us</country></countryList>
+      <countryList><iso3166Id>us</iso3166Id></countryList>
       <languageList><iso639Id>eng</iso639Id><iso639Id>por</iso639Id><iso639Id>fra</iso639Id></languageList>
     </configItem>
   </layout>
