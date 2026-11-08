@@ -42,7 +42,7 @@ xkb_symbols "basic" {
     key <AC01> { [         a,          A,          aacute,            Aacute ] };
     key <AC02> { [         s,          S,        NoSymbol,         NoSymbol ] };
     key <AC03> { [         d,          D,        NoSymbol,         NoSymbol ] };
-    key <AC04> { [         f,          F,        NoSymbol,         NoSymbol ] };
+    key <AC04> { [         f,          F,              ae,                AE ] };
     key <AC05> { [         g,          G,     icircumflex,       Icircumflex ] };
     key <AC06> { [         h,          H,     ucircumflex,       Ucircumflex ] };
     key <AC07> { [         j,          J,          ugrave,            Ugrave ] };
@@ -60,7 +60,7 @@ xkb_symbols "basic" {
     key <AB06> { [         n,          N,        NoSymbol,         NoSymbol ] };
     key <AB07> { [         m,          M,          igrave,            Igrave ] };
     key <AB08> { [     comma,       less,        ccedilla,       dead_cedilla ] };
-    key <AB09> { [    period,    greater,    NoSymbol,         NoSymbol ] };
+    key <AB09> { [    period,    greater,              oe,                OE ] };
     key <AB10> { [     slash,   question,    questiondown,       dead_stroke ] };
     key <BKSL> { [ backslash,        bar,    NoSymbol,         NoSymbol ] };
 

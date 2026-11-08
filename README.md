@@ -65,6 +65,8 @@ US ANSI keyboard layout with AltGr dead keys, tuned for Portuguese, French and E
 | Z | ã | Ã |
 | X | â | Â |
 | C | ç | Ç |
+| F | æ | Æ |
+| . | œ | Œ |
 | M | ì | Ì |
 | , | ç | dead_cedilla |
 | / | questiondown | dead_stroke |
